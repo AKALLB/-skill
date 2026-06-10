@@ -1,0 +1,5 @@
+.skill-data/
+warehouse.sqlite
+raw/
+__pycache__/
+*.pyc

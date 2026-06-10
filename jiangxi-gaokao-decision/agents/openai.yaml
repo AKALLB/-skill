@@ -1,0 +1,6 @@
+interface:
+  display_name: "江西报考决策"
+  short_description: "用可追溯数据设计江西考生的升学与职业路径"
+  default_prompt: "Use $jiangxi-gaokao-decision to analyze my Jiangxi Gaokao choices with current evidence and explicit fallback paths."
+policy:
+  allow_implicit_invocation: true

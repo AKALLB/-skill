@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "key": "jxeea",
+      "name": "江西省教育考试院",
+      "url": "https://www.jxeea.cn/",
+      "authority": "official",
+      "module": "admissions",
+      "freshness_days": 7,
+      "notes": "招生政策、一分一段、投档统计和公告入口"
+    },
+    {
+      "key": "chsi-gaokao",
+      "name": "阳光高考",
+      "url": "https://gaokao.chsi.com.cn/",
+      "authority": "official",
+      "module": "admissions",
+      "freshness_days": 14,
+      "notes": "高校招生章程、专业选考要求和教育部招生信息"
+    },
+    {
+      "key": "jiangxi-rst",
+      "name": "江西省人力资源和社会保障厅",
+      "url": "https://rst.jiangxi.gov.cn/",
+      "authority": "official",
+      "module": "jobs",
+      "freshness_days": 7,
+      "notes": "事业单位、人才与就业政策入口"
+    },
+    {
+      "key": "jiangxi-gwy",
+      "name": "江西公务员招录专题入口",
+      "url": "https://www.jxpta.com/",
+      "authority": "official",
+      "module": "jobs",
+      "freshness_days": 7,
+      "notes": "公务员与人事考试公告、职位表入口"
+    },
+    {
+      "key": "jiangxi-gov",
+      "name": "江西省人民政府",
+      "url": "https://www.jiangxi.gov.cn/",
+      "authority": "official",
+      "module": "industry",
+      "freshness_days": 14,
+      "notes": "政府工作报告、产业规划、重大项目和政策"
+    },
+    {
+      "key": "jiangxi-stats",
+      "name": "江西省统计局",
+      "url": "https://tjj.jiangxi.gov.cn/",
+      "authority": "official",
+      "module": "industry",
+      "freshness_days": 30,
+      "notes": "统计公报和产业就业数据"
+    },
+    {
+      "key": "ilo-ai-work",
+      "name": "国际劳工组织",
+      "url": "https://www.ilo.org/",
+      "authority": "primary_research",
+      "module": "ai",
+      "freshness_days": 90,
+      "notes": "生成式AI、职业任务和劳动力市场原始研究"
+    },
+    {
+      "key": "oecd-ai-work",
+      "name": "经济合作与发展组织",
+      "url": "https://www.oecd.org/employment/",
+      "authority": "primary_research",
+      "module": "ai",
+      "freshness_days": 90,
+      "notes": "AI、技能、就业与任务变化研究"
+    }
+  ]
+}
